@@ -9,3 +9,41 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+body {
+	font-family: Roboto;
+    background: -webkit-linear-gradient(30deg, #2bbfe453 10%, #f593e3a7 90%);;
+}
+
+h1 {
+	background: lightcyan;
+	color: black;
+	margin: 0;
+	padding: 10px 20px;
+	text-transform: uppercase;
+	font-size: 60px;
+	font-weight: normal;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#container {
+	width: 360px;
+	margin: 100px auto;
+	
+	
+}
+
+ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+	height: 40px;
+	line-height: 40px;
+	color: #666;
+}
+
+
